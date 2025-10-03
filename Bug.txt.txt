@@ -1,0 +1,33 @@
+Title:
+Generated Pool & Generated Pool Package Button Missing in 11.x Version
+
+Description:
+In the 11.x version of the application, the Generated Pool & Generated Pool Package button 
+is missing after creating a Pool and navigating to Send Invoice Package → Documents (UI). 
+This button is present and functioning correctly in the 11.x version, 
+indicating a regression or UI inconsistency between versions.
+
+Reproduction Steps:
+
+Go to Create Pool and complete pool creation.
+Click on Send Invoice Package.
+Navigate to the Documents (UI) tab.
+Observe that the Generated Pool & Generated Pool Package Button Missing in 11.x Version
+
+Expected Result:
+The Generated Pool & Generated Pool Package button should be visible and accessible as in version 11.x.
+
+Actual Result:
+The button is not displayed in version 11.x.
+
+Impact:
+Users are unable to access or generate the Pool Package from the Documents UI in version 9.x, potentially blocking workflow.
+
+
+
+Hi
+issue with in 11.x Version of the application, the Generated Pool & Generated Pool Package button
+is missing after creating a Pool and navigating to Send Invoice Package → Documents (UI).
+This button is present and functioning correctly in the 11.x version,
+indicating a regression or UI inconsistency between versions.
+In 9.X Version
