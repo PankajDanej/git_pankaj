@@ -31,3 +31,20 @@ is missing after creating a Pool and navigating to Send Invoice Package → Docu
 This button is present and functioning correctly in the 11.x version,
 indicating a regression or UI inconsistency between versions.
 In 9.X Version
+
+Hi
+issue with in 11.x Version of the application, the Generated Pool & Generated Pool Package button
+is missing after creating a Pool and navigating to Send Invoice Package → Documents (UI).
+This button is present and functioning correctly in the 11.x version,
+indicating a regression or UI inconsistency between versions.
+In 9.X VersionHi
+issue with in 11.x Version of the application, the Generated Pool & Generated Pool Package button
+is missing after creating a Pool and navigating to Send Invoice Package → Documents (UI).
+This button is present and functioning correctly in the 11.x version,
+indicating a regression or UI inconsistency between versions.
+In 9.X VersionHi
+issue with in 11.x Version of the application, the Generated Pool & Generated Pool Package button
+is missing after creating a Pool and navigating to Send Invoice Package → Documents (UI).
+This button is present and functioning correctly in the 11.x version,
+indicating a regression or UI inconsistency between versions.
+In 9.X Version

@@ -35,3 +35,24 @@ Step 7 : Run & Validate
 Notes:
 1. WebDriver Sampler automates the execution and collection of Performance metrics on the Browser (client-side)
 2. While using WebDriver sampler each thread will have a single browser instance and each browser consumes significant amount of resources.
+Hi
+issue with in 11.x Version of the application, the Generated Pool & Generated Pool Package button
+is missing after creating a Pool and navigating to Send Invoice Package → Documents (UI).
+This button is present and functioning correctly in the 11.x version,
+indicating a regression or UI inconsistency between versions.
+In 9.X VersionHi
+issue with in 11.x Version of the application, the Generated Pool & Generated Pool Package button
+is missing after creating a Pool and navigating to Send Invoice Package → Documents (UI).
+This button is present and functioning correctly in the 11.x version,
+indicating a regression or UI inconsistency between versions.
+In 9.X VersionHi
+issue with in 11.x Version of the application, the Generated Pool & Generated Pool Package button
+is missing after creating a Pool and navigating to Send Invoice Package → Documents (UI).
+This button is present and functioning correctly in the 11.x version,
+indicating a regression or UI inconsistency between versions.
+In 9.X VersionHi
+issue with in 11.x Version of the application, the Generated Pool & Generated Pool Package button
+is missing after creating a Pool and navigating to Send Invoice Package → Documents (UI).
+This button is present and functioning correctly in the 11.x version,
+indicating a regression or UI inconsistency between versions.
+In 9.X Version
